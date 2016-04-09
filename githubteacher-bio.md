@@ -1,5 +1,5 @@
 ### Bio information for GitHub Teacher
 
-- Name:
-- Location:
-- Occupation:
+- Name: GithubTeacher
+- Location: Omaha, NE
+- Occupation: Teacher
